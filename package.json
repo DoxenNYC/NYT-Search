@@ -1,0 +1,8 @@
+{
+  "name": "NYT-Search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DoxenNYC/NYT-Search.git",
+  "author": "DoxenNYC <jrdoxen@gmail.com>",
+  "license": "MIT"
+}
